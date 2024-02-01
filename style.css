@@ -51,3 +51,6 @@ footer{
     background-color:rgb(24, 24, 110);
     color: #fff;
 }
+footer a{
+    color: orange;
+}
