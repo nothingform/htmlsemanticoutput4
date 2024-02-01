@@ -1,8 +1,53 @@
-h1{
-    background-color: blue ;
+nav{
+    background-color: rgb(24, 24, 110);
     text-align: center;
-    text-shadow: 0cap;
-    border-bottom: 0cap;
-    border-left-style: ridge;
+    color: rgb(246, 241, 237);
+    padding: 10px;
+    width: 100px;
+    height: 100%;
+    position: fixed;
+}
+nav a{
+    text-align: center;
+    background-color: #fff;
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10%;
 }
 
+main{
+    margin-left: 120px;
+    padding: 20px;
+}
+body{
+   font-family: georgia;
+   background-color: rgb(213, 242, 254);
+}   
+figure img{
+    background-color: white;
+    padding: 30px;
+    margin-left: 0cqmax;
+    border-style: groove;
+
+}
+figcaption{
+    style="font-weight: lighter;"
+}
+figure{
+    border: 100px;
+    border-left: solid black;
+}
+section h2{
+    color: blue;
+}
+
+footer{
+    border-style: ridge;
+    padding: 15px;
+    width: 100%;
+    background-color:rgb(24, 24, 110);
+    color: #fff;
+}
